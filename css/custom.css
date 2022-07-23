@@ -1,0 +1,170 @@
+/* 首页图片背景一体化 */
+#page-header:not(.not-top-img):before {background-color: transparent !important;}
+#page-header.post-bg:before {position: absolute;top: 0;left: 0;display: block;width: 100%;height: 100%;background-color: rgba(0,0,0,0.5) !important;content: '';}
+
+/* 首页文章卡片 */
+#recent-posts > .recent-post-item{
+    background:rgba(255, 255, 255, 0.9);
+}
+/* 首页侧栏卡片 */
+.card-widget{
+  background:rgba(255, 255, 255, 0.9)!important;
+}
+/* 文章页面正文背景 */
+div#post{
+  background: rgba(255, 255, 255, 0.9);
+}
+/* 分页页面 */
+div#page{
+  background: rgba(255, 255, 255, 0.9);
+}
+/* 归档页面 */
+div#archive{
+  background: rgba(255, 255, 255, 0.9);
+}
+/* 标签页面 */
+div#tag{
+  background: rgba(255, 255, 255, 0.9);
+}
+/* 分类页面 */
+div#category{
+  background: rgba(255, 255, 255, 0.9);
+}
+/* 页脚透明 */
+#footer{
+  background: transparent!important;
+}
+/* 页脚黑色透明玻璃效果移除 */
+#footer::before{
+    background: transparent!important;
+  }
+/* 头图透明 */
+#page-header{
+  background: transparent!important;
+}
+/* 头图遮罩层透明 */
+#page-header::before{
+  background: transparent!important;
+  }
+/*top-img黑色透明玻璃效果移除，不建议加，除非你执着于完全一图流或者背景图对比色明显 */
+#page-header.post-bg:before {
+  background-color: transparent!important;
+}
+/*夜间模式伪类遮罩层透明*/
+[data-theme="dark"]
+  #footer::before{
+      background: transparent!important;
+    }
+[data-theme="dark"]
+  #page-header::before{
+    background: transparent!important;
+    }
+
+            
+
+@font-face{
+  font-family:'Yuanshen' ;  /* 字体名自定义即可 */
+  src:url('/fonts/Yuanshen.ttf'); /* 字体文件路径 */
+  font-display : swap;
+}
+
+@font-face{
+  font-family:'LXGWWenKaiScreen' ;  /* 字体名自定义即可 */
+  src:url('/fonts/LXGWWenKaiScreen.ttf'); /* 字体文件路径 */
+  font-display : swap;
+}
+
+@font-face{
+  font-family:'HarmonyOS' ;  /* 字体名自定义即可 */
+  src:url('/fonts/HarmonyOS.ttf'); /* 字体文件路径 */
+  font-display : swap;
+}
+
+h1#site-title {
+  font-family: 'Yuanshen', LXGWWenKaiScreen, HarmonyOS;
+}
+
+/* 鼠标样式 */
+body {
+  cursor: url("https://ik.imagekit.io/nicexl/cursor/normal.cur"), default;
+}
+a,
+img,
+button {
+  cursor: url("https://ik.imagekit.io/nicexl/cursor/link.cur"), default !important;
+}
+
+ /* 导航栏居中 */
+#nav .menus_items {
+    /* display: inline; 这个带不带都可以，本来就是inline */
+    position: absolute;
+    width: fit-content;
+    left: 50%;
+    transform: translateX(-50%);
+}
+#nav .menus_items .menus_item:hover .menus_item_child{
+  display: flex;
+}
+
+/* 版块显隐修改 */
+#hidden_element{
+  display: none!important;
+}
+
+/* 背景宇宙星光  */
+#universe{
+  display: block;
+  position: fixed;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: -1;
+}
+/* 夜间模式  */
+[data-theme="dark"]
+  #aside-content .card-widget{
+      background: rgba(0, 0, 0, 0.5)!important;
+    }
+[data-theme="dark"]
+  div#post{
+    background: rgba(0, 0, 0, 0.5)!important;
+    }
+/* 阅读模式  */    
+.read-mode #aside-content .card-widget{
+      background: rgba(158, 204, 171, 0.5)!important;
+    }
+.read-mode div#post{
+    background: rgba(158, 204, 171, 0.5)!important;
+    }
+/* 解决透明化后的字体颜色异常 */ 
+[data-theme="dark"]
+#recent-posts > .recent-post-item{ 
+    background: rgba(0,0,0,0.6)!important;
+}
+
+/* copyright适配夜间模式和美化字体样式 */ 
+[data-theme="dark"]
+  #post .post-copyright {
+    background-color: rgb(7 8 10);
+    text-shadow: #bfbeb8 1px 0 4px;
+  }
+[data-theme="dark"]
+  #post .post-copyright {
+    border: 1px solid rgb(19 18 18 / 35%);
+  }
+[data-theme="dark"]
+  .post-copyright-info {
+    color: #e0e0e4;
+  }
+#post .post-copyright__title{
+    font-size:22px;
+}
+#post .post-copyright__notice{
+    font-size:15px;
+}
