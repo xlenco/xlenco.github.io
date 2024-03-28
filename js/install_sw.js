@@ -1,0 +1,1 @@
+navigator.serviceWorker?navigator.serviceWorker.register("/sw.js",{scope:"/"}).then((function(o){console.log(o)})).catch((function(o){console.error(o)})):console.log("Service Worker is not supported in this browser.");

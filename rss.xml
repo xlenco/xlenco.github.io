@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Xlenco</title>
+    <link>https://blog.xlenco.top/</link>
+    
+    <image>
+      <url>https://blog.xlenco.top/icon.png</url>
+      <title>Xlenco</title>
+      <link>https://blog.xlenco.top/</link>
+    </image>
+    
+    <atom:link href="https://blog.xlenco.top/rss.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>最好的地方，是没去过的地方。最好的时光，是回不来的时光。</description>
+    <pubDate>Fri, 08 Mar 2024 16:00:00 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>前端字体压缩方案</title>
+      <link>https://blog.xlenco.top/p/55de.html</link>
+      <guid>https://blog.xlenco.top/p/55de.html</guid>
+      <pubDate>Fri, 08 Mar 2024 16:00:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;fontmin&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#fontmin&quot;&gt;&lt;/a&gt; Fontmin&lt;/h2&gt;
+&lt;p&gt;Fontmin 是一个纯 JS 字体子集化方案。利用 Fontmin 可以提取 TTF</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.xlenco.top/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <category domain="https://blog.xlenco.top/tags/HTML/">HTML</category>
+      
+      
+      <comments>https://blog.xlenco.top/p/55de.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>语雀富文本写作自动部署到 Hexo</title>
+      <link>https://blog.xlenco.top/p/1420.html</link>
+      <guid>https://blog.xlenco.top/p/1420.html</guid>
+      <pubDate>Thu, 15 Feb 2024 16:00:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;blockquote&gt;
+&lt;p&gt;本文章由语雀编写&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;「语雀」是一个「知识创作工具」，孵化自 蚂蚁金服 ，是 体验科技 理念下的一款创新产品，已是 5万+</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.xlenco.top/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <category domain="https://blog.xlenco.top/tags/Markdown/">Markdown</category>
+      
+      
+      <comments>https://blog.xlenco.top/p/1420.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Artalk 评论邮件模板美化</title>
+      <link>https://blog.xlenco.top/p/2f16.html</link>
+      <guid>https://blog.xlenco.top/p/2f16.html</guid>
+      <pubDate>Thu, 05 Jan 2023 03:15:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#前言&quot;&gt;&lt;/a&gt; 前言&lt;/h2&gt;
+&lt;p&gt;最近博客换上了 Artalk 评论系统，不知道大家有没有发现。感觉 Artalk 默认的邮箱通知模版感觉不够好看。刚好之前在糖果屋 🍬</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.xlenco.top/categories/%E7%BE%8E%E5%8C%96/">美化</category>
+      
+      
+      <category domain="https://blog.xlenco.top/tags/Artalk/">Artalk</category>
+      
+      
+      <comments>https://blog.xlenco.top/p/2f16.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>国内外文件传输平台推荐</title>
+      <link>https://blog.xlenco.top/p/3f00.html</link>
+      <guid>https://blog.xlenco.top/p/3f00.html</guid>
+      <pubDate>Tue, 03 Jan 2023 07:34:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#前言&quot;&gt;&lt;/a&gt;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.xlenco.top/categories/%E5%AE%9E%E7%94%A8%E5%88%A9%E5%99%A8/">实用利器</category>
+      
+      
+      
+      <comments>https://blog.xlenco.top/p/3f00.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>图片无损放大工具推荐</title>
+      <link>https://blog.xlenco.top/p/684.html</link>
+      <guid>https://blog.xlenco.top/p/684.html</guid>
+      <pubDate>Sun, 01 Jan 2023 02:28:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;&lt;strong&gt;图片模糊不清晰&lt;/strong&gt;的问题相信大家都遇到过。由于压缩、截图等原因，表情包、图片传来传去，越来越糊，慢慢变得和打了“马赛克”一样。&lt;br /&gt;
+有时我们只有分辨率低、尺寸小、模糊不清的 N</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.xlenco.top/categories/%E5%AE%9E%E7%94%A8%E5%88%A9%E5%99%A8/">实用利器</category>
+      
+      
+      <category domain="https://blog.xlenco.top/tags/Images/">Images</category>
+      
+      
+      <comments>https://blog.xlenco.top/p/684.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>为你的网站添加灯笼样式</title>
+      <link>https://blog.xlenco.top/p/ada5.html</link>
+      <guid>https://blog.xlenco.top/p/ada5.html</guid>
+      <pubDate>Fri, 23 Dec 2022 02:44:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#前言&quot;&gt;&lt;/a&gt; 前言&lt;/h2&gt;
+&lt;p&gt;最近又要到一年一度的春节了，之前在网上冲浪时看到很多网站挂上了灯笼，我也趁着这个机会水一篇文章，代码会放在下面&lt;/p&gt;
+&lt;h2</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.xlenco.top/categories/%E5%89%8D%E7%AB%AF/">前端</category>
+      
+      
+      <category domain="https://blog.xlenco.top/tags/HTML/">HTML</category>
+      
+      
+      <comments>https://blog.xlenco.top/p/ada5.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>dns-prefetch、prefetch、preload、defer、async 字段的区别</title>
+      <link>https://blog.xlenco.top/p/593d.html</link>
+      <guid>https://blog.xlenco.top/p/593d.html</guid>
+      <pubDate>Mon, 19 Dec 2022 09:45:07 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h3 id=&quot;1-dns-prefetch&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1-dns-prefetch&quot;&gt;&lt;/a&gt; 1、&lt;code&gt;dns-prefetch&lt;/code&gt;&lt;/h3&gt;
+&lt;p&gt;域名转化为 &lt;code&gt;ip&lt;/code&gt;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.xlenco.top/categories/%E5%89%8D%E7%AB%AF/">前端</category>
+      
+      
+      <category domain="https://blog.xlenco.top/tags/HTML/">HTML</category>
+      
+      
+      <comments>https://blog.xlenco.top/p/593d.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>双拼语法介绍以及选择</title>
+      <link>https://blog.xlenco.top/p/d2e.html</link>
+      <guid>https://blog.xlenco.top/p/d2e.html</guid>
+      <pubDate>Fri, 25 Nov 2022 06:26:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;「双拼」是一种基于拼音的输入方案，相比全拼，有着击键次数少、打字节奏感强的特点，而且简单易学，根据个人经验，一般练习一个月可达到熟练水平，三个月可超过全拼时 20% 的输入速度 （以全拼 60</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.xlenco.top/categories/%E6%9D%82%E9%A1%B9/">杂项</category>
+      
+      
+      
+      <comments>https://blog.xlenco.top/p/d2e.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>CloudFlare Workers 项目合集</title>
+      <link>https://blog.xlenco.top/p/cf-works.html</link>
+      <guid>https://blog.xlenco.top/p/cf-works.html</guid>
+      <pubDate>Mon, 03 Oct 2022 02:36:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;网盘目录&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#网盘目录&quot;&gt;&lt;/a&gt; 网盘目录&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;GoindexGoindex 修改版，支持多盘、搜索、分页加载等功能。&lt;a</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.xlenco.top/categories/%E6%9D%82%E9%A1%B9/">杂项</category>
+      
+      
+      <category domain="https://blog.xlenco.top/tags/CloudFlare/">CloudFlare</category>
+      
+      
+      <comments>https://blog.xlenco.top/p/cf-works.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>这里有上亿开源项目！你却在为如何访问而发愁！</title>
+      <link>https://blog.xlenco.top/p/e755.html</link>
+      <guid>https://blog.xlenco.top/p/e755.html</guid>
+      <pubDate>Sun, 25 Sep 2022 06:01:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#前言&quot;&gt;&lt;/a&gt; 前言&lt;/h2&gt;
+&lt;p&gt;目前 &lt;a href=&quot;http://github.com&quot;&gt;github.com&lt;/a&gt; 在国内 ping</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.xlenco.top/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <category domain="https://blog.xlenco.top/tags/Github/">Github</category>
+      
+      
+      <comments>https://blog.xlenco.top/p/e755.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>图床方案汇总</title>
+      <link>https://blog.xlenco.top/p/7ea9.html</link>
+      <guid>https://blog.xlenco.top/p/7ea9.html</guid>
+      <pubDate>Tue, 13 Sep 2022 14:02:07 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#前言&quot;&gt;&lt;/a&gt; 前言&lt;/h2&gt;
+&lt;p&gt;目前 MarkDown 作为一种程序员必备的轻量级标记语言，避免了富文本编辑器换平台就要重新排版的繁琐，使我们可以专注于技术的输出，但使用</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.xlenco.top/categories/%E6%9D%82%E9%A1%B9/">杂项</category>
+      
+      
+      
+      <comments>https://blog.xlenco.top/p/7ea9.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>计算机专业英语词汇大全</title>
+      <link>https://blog.xlenco.top/p/557e.html</link>
+      <guid>https://blog.xlenco.top/p/557e.html</guid>
+      <pubDate>Sun, 11 Sep 2022 05:01:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;a&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#a&quot;&gt;&lt;/a&gt; Ａ&lt;/h2&gt;
+&lt;p&gt;Active-matrix   主动距陈&lt;br /&gt;
+Adapter cards  适配卡&lt;br /&gt;
+Advanced application</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.xlenco.top/categories/%E7%AC%94%E8%AE%B0/">笔记</category>
+      
+      
+      
+      <comments>https://blog.xlenco.top/p/557e.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>常用前端公共库CDN</title>
+      <link>https://blog.xlenco.top/p/8606.html</link>
+      <guid>https://blog.xlenco.top/p/8606.html</guid>
+      <pubDate>Mon, 29 Aug 2022 13:13:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#前言&quot;&gt;&lt;/a&gt; 前言&lt;/h2&gt;
+&lt;p&gt;静态资源 &lt;a</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.xlenco.top/categories/%E7%AC%94%E8%AE%B0/">笔记</category>
+      
+      
+      <category domain="https://blog.xlenco.top/tags/CDN/">CDN</category>
+      
+      
+      <comments>https://blog.xlenco.top/p/8606.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Hexo｜博客搭建指南</title>
+      <link>https://blog.xlenco.top/p/5b4d.html</link>
+      <guid>https://blog.xlenco.top/p/5b4d.html</guid>
+      <pubDate>Sun, 28 Aug 2022 08:12:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;1-引言&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1-引言&quot;&gt;&lt;/a&gt; 1. 引言&lt;/h2&gt;
+&lt;p&gt;不知不觉，我的博客已经在风雨飘摇中运行了一段时间了，我觉得有必要详细记录一下博客搭建的过程，以防我不小心搞崩了博客…&lt;br</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.xlenco.top/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <category domain="https://blog.xlenco.top/tags/Hexo/">Hexo</category>
+      
+      
+      <comments>https://blog.xlenco.top/p/5b4d.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>利用Github Actions自动化部署你Hexo博客</title>
+      <link>https://blog.xlenco.top/p/77000.html</link>
+      <guid>https://blog.xlenco.top/p/77000.html</guid>
+      <pubDate>Thu, 25 Aug 2022 14:01:13 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h3 id=&quot;github-actions概念&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#github-actions概念&quot;&gt;&lt;/a&gt; Github Actions概念&lt;/h3&gt;
+&lt;p&gt;GitHub Actions 是一个持续集成和持续交付</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.xlenco.top/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <category domain="https://blog.xlenco.top/tags/Hexo/">Hexo</category>
+      
+      
+      <comments>https://blog.xlenco.top/p/77000.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>随机访问博客文章</title>
+      <link>https://blog.xlenco.top/p/2377.html</link>
+      <guid>https://blog.xlenco.top/p/2377.html</guid>
+      <pubDate>Sun, 21 Aug 2022 10:13:03 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#前言&quot;&gt;&lt;/a&gt; 前言&lt;/h2&gt;
+&lt;p&gt;此教程是根据 js 实现的随机访问博客文章&lt;/p&gt;
+&lt;p&gt;部署难度：简单&lt;/p&gt;
+&lt;h2 id=&quot;正文&quot;&gt;&lt;a</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.xlenco.top/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <category domain="https://blog.xlenco.top/tags/Hexo/">Hexo</category>
+      
+      
+      <comments>https://blog.xlenco.top/p/2377.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>在GitHub个人页添加一个有趣的贪吃蛇动画</title>
+      <link>https://blog.xlenco.top/p/ce95.html</link>
+      <guid>https://blog.xlenco.top/p/ce95.html</guid>
+      <pubDate>Thu, 28 Jul 2022 04:07:51 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;这是我之前在逛 GitHub 发现的有意思的东西，给自己的个人 GitHub 主页添加一个贪吃蛇动画，效果如下：&lt;br /&gt;
+&lt;img</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.xlenco.top/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <category domain="https://blog.xlenco.top/tags/Github/">Github</category>
+      
+      
+      <comments>https://blog.xlenco.top/p/ce95.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Git常用命令</title>
+      <link>https://blog.xlenco.top/p/1b99.html</link>
+      <guid>https://blog.xlenco.top/p/1b99.html</guid>
+      <pubDate>Mon, 11 Jul 2022 16:00:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;仓库&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#仓库&quot;&gt;&lt;/a&gt; 仓库&lt;/h2&gt;
+&lt;figure class=&quot;highlight shell&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.xlenco.top/categories/%E7%AC%94%E8%AE%B0/">笔记</category>
+      
+      
+      <category domain="https://blog.xlenco.top/tags/Git/">Git</category>
+      
+      
+      <comments>https://blog.xlenco.top/p/1b99.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>微软 E5 订阅 关闭手机验证步骤</title>
+      <link>https://blog.xlenco.top/p/923a.html</link>
+      <guid>https://blog.xlenco.top/p/923a.html</guid>
+      <pubDate>Thu, 30 Jun 2022 11:46:35 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#前言&quot;&gt;&lt;/a&gt; 前言&lt;/h2&gt;
+&lt;p&gt;相信各位 E5 账号嫖的很爽吧！！不得不说巨硬是真的良心&lt;br /&gt;
+但是部署自动部署后，跳出来的双重验证就让人很烦&lt;br</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.xlenco.top/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      
+      <comments>https://blog.xlenco.top/p/923a.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Microsoft Azure应用永久密钥获取教程</title>
+      <link>https://blog.xlenco.top/p/f366.html</link>
+      <guid>https://blog.xlenco.top/p/f366.html</guid>
+      <pubDate>Sun, 19 Jun 2022 10:47:47 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h3 id=&quot;开始&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#开始&quot;&gt;&lt;/a&gt; 开始&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;首先打开网址：&lt;a</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.xlenco.top/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      
+      <comments>https://blog.xlenco.top/p/f366.html#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>

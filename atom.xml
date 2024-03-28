@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Xlenco</title>
+  <icon>https://blog.xlenco.top/icon.png</icon>
+  <subtitle>互联网中的静谧之地</subtitle>
+  <link href="https://blog.xlenco.top/atom.xml" rel="self"/>
+  
+  <link href="https://blog.xlenco.top/"/>
+  <updated>2024-03-08T16:00:00.000Z</updated>
+  <id>https://blog.xlenco.top/</id>
+  
+  <author>
+    <name>Xlenco</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>前端字体压缩方案</title>
+    <link href="https://blog.xlenco.top/p/55de.html"/>
+    <id>https://blog.xlenco.top/p/55de.html</id>
+    <published>2024-03-08T16:00:00.000Z</published>
+    <updated>2024-03-08T16:00:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;fontmin&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#fontmin&quot;&gt;&lt;/a&gt; Fontmin&lt;/h2&gt;
+&lt;p&gt;Fontmin 是一个纯 JS 字体子集化方案。利用 Fontmin 可以提取 TTF</summary>
+        
+      
+    
+    
+    
+    <category term="教程" scheme="https://blog.xlenco.top/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="HTML" scheme="https://blog.xlenco.top/tags/HTML/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>语雀富文本写作自动部署到 Hexo</title>
+    <link href="https://blog.xlenco.top/p/1420.html"/>
+    <id>https://blog.xlenco.top/p/1420.html</id>
+    <published>2024-02-15T16:00:00.000Z</published>
+    <updated>2024-02-16T16:00:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;本文章由语雀编写&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;「语雀」是一个「知识创作工具」，孵化自 蚂蚁金服 ，是 体验科技 理念下的一款创新产品，已是 5万+</summary>
+        
+      
+    
+    
+    
+    <category term="教程" scheme="https://blog.xlenco.top/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="Markdown" scheme="https://blog.xlenco.top/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Artalk 评论邮件模板美化</title>
+    <link href="https://blog.xlenco.top/p/2f16.html"/>
+    <id>https://blog.xlenco.top/p/2f16.html</id>
+    <published>2023-01-05T03:15:00.000Z</published>
+    <updated>2023-01-05T03:15:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#前言&quot;&gt;&lt;/a&gt; 前言&lt;/h2&gt;
+&lt;p&gt;最近博客换上了 Artalk 评论系统，不知道大家有没有发现。感觉 Artalk 默认的邮箱通知模版感觉不够好看。刚好之前在糖果屋 🍬</summary>
+        
+      
+    
+    
+    
+    <category term="美化" scheme="https://blog.xlenco.top/categories/%E7%BE%8E%E5%8C%96/"/>
+    
+    
+    <category term="Artalk" scheme="https://blog.xlenco.top/tags/Artalk/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>国内外文件传输平台推荐</title>
+    <link href="https://blog.xlenco.top/p/3f00.html"/>
+    <id>https://blog.xlenco.top/p/3f00.html</id>
+    <published>2023-01-03T07:34:00.000Z</published>
+    <updated>2023-01-03T09:34:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#前言&quot;&gt;&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="实用利器" scheme="https://blog.xlenco.top/categories/%E5%AE%9E%E7%94%A8%E5%88%A9%E5%99%A8/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>图片无损放大工具推荐</title>
+    <link href="https://blog.xlenco.top/p/684.html"/>
+    <id>https://blog.xlenco.top/p/684.html</id>
+    <published>2023-01-01T02:28:00.000Z</published>
+    <updated>2023-01-01T06:05:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;图片模糊不清晰&lt;/strong&gt;的问题相信大家都遇到过。由于压缩、截图等原因，表情包、图片传来传去，越来越糊，慢慢变得和打了“马赛克”一样。&lt;br /&gt;
+有时我们只有分辨率低、尺寸小、模糊不清的 N</summary>
+        
+      
+    
+    
+    
+    <category term="实用利器" scheme="https://blog.xlenco.top/categories/%E5%AE%9E%E7%94%A8%E5%88%A9%E5%99%A8/"/>
+    
+    
+    <category term="Images" scheme="https://blog.xlenco.top/tags/Images/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>为你的网站添加灯笼样式</title>
+    <link href="https://blog.xlenco.top/p/ada5.html"/>
+    <id>https://blog.xlenco.top/p/ada5.html</id>
+    <published>2022-12-23T02:44:00.000Z</published>
+    <updated>2022-12-28T11:23:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#前言&quot;&gt;&lt;/a&gt; 前言&lt;/h2&gt;
+&lt;p&gt;最近又要到一年一度的春节了，之前在网上冲浪时看到很多网站挂上了灯笼，我也趁着这个机会水一篇文章，代码会放在下面&lt;/p&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="前端" scheme="https://blog.xlenco.top/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="HTML" scheme="https://blog.xlenco.top/tags/HTML/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>dns-prefetch、prefetch、preload、defer、async 字段的区别</title>
+    <link href="https://blog.xlenco.top/p/593d.html"/>
+    <id>https://blog.xlenco.top/p/593d.html</id>
+    <published>2022-12-19T09:45:07.000Z</published>
+    <updated>2022-12-19T09:45:07.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;1-dns-prefetch&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1-dns-prefetch&quot;&gt;&lt;/a&gt; 1、&lt;code&gt;dns-prefetch&lt;/code&gt;&lt;/h3&gt;
+&lt;p&gt;域名转化为 &lt;code&gt;ip&lt;/code&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="前端" scheme="https://blog.xlenco.top/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="HTML" scheme="https://blog.xlenco.top/tags/HTML/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>双拼语法介绍以及选择</title>
+    <link href="https://blog.xlenco.top/p/d2e.html"/>
+    <id>https://blog.xlenco.top/p/d2e.html</id>
+    <published>2022-11-25T06:26:00.000Z</published>
+    <updated>2022-11-25T10:25:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;「双拼」是一种基于拼音的输入方案，相比全拼，有着击键次数少、打字节奏感强的特点，而且简单易学，根据个人经验，一般练习一个月可达到熟练水平，三个月可超过全拼时 20% 的输入速度 （以全拼 60</summary>
+        
+      
+    
+    
+    
+    <category term="杂项" scheme="https://blog.xlenco.top/categories/%E6%9D%82%E9%A1%B9/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>CloudFlare Workers 项目合集</title>
+    <link href="https://blog.xlenco.top/p/cf-works.html"/>
+    <id>https://blog.xlenco.top/p/cf-works.html</id>
+    <published>2022-10-03T02:36:00.000Z</published>
+    <updated>2022-10-03T02:36:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;网盘目录&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#网盘目录&quot;&gt;&lt;/a&gt; 网盘目录&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;GoindexGoindex 修改版，支持多盘、搜索、分页加载等功能。&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="杂项" scheme="https://blog.xlenco.top/categories/%E6%9D%82%E9%A1%B9/"/>
+    
+    
+    <category term="CloudFlare" scheme="https://blog.xlenco.top/tags/CloudFlare/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>这里有上亿开源项目！你却在为如何访问而发愁！</title>
+    <link href="https://blog.xlenco.top/p/e755.html"/>
+    <id>https://blog.xlenco.top/p/e755.html</id>
+    <published>2022-09-25T06:01:00.000Z</published>
+    <updated>2022-09-25T06:50:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#前言&quot;&gt;&lt;/a&gt; 前言&lt;/h2&gt;
+&lt;p&gt;目前 &lt;a href=&quot;http://github.com&quot;&gt;github.com&lt;/a&gt; 在国内 ping</summary>
+        
+      
+    
+    
+    
+    <category term="教程" scheme="https://blog.xlenco.top/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="Github" scheme="https://blog.xlenco.top/tags/Github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>图床方案汇总</title>
+    <link href="https://blog.xlenco.top/p/7ea9.html"/>
+    <id>https://blog.xlenco.top/p/7ea9.html</id>
+    <published>2022-09-13T14:02:07.000Z</published>
+    <updated>2023-01-17T13:02:07.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#前言&quot;&gt;&lt;/a&gt; 前言&lt;/h2&gt;
+&lt;p&gt;目前 MarkDown 作为一种程序员必备的轻量级标记语言，避免了富文本编辑器换平台就要重新排版的繁琐，使我们可以专注于技术的输出，但使用</summary>
+        
+      
+    
+    
+    
+    <category term="杂项" scheme="https://blog.xlenco.top/categories/%E6%9D%82%E9%A1%B9/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>计算机专业英语词汇大全</title>
+    <link href="https://blog.xlenco.top/p/557e.html"/>
+    <id>https://blog.xlenco.top/p/557e.html</id>
+    <published>2022-09-11T05:01:00.000Z</published>
+    <updated>2022-09-11T06:29:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;a&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#a&quot;&gt;&lt;/a&gt; Ａ&lt;/h2&gt;
+&lt;p&gt;Active-matrix   主动距陈&lt;br /&gt;
+Adapter cards  适配卡&lt;br /&gt;
+Advanced application</summary>
+        
+      
+    
+    
+    
+    <category term="笔记" scheme="https://blog.xlenco.top/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>常用前端公共库CDN</title>
+    <link href="https://blog.xlenco.top/p/8606.html"/>
+    <id>https://blog.xlenco.top/p/8606.html</id>
+    <published>2022-08-29T13:13:00.000Z</published>
+    <updated>2023-01-13T12:02:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#前言&quot;&gt;&lt;/a&gt; 前言&lt;/h2&gt;
+&lt;p&gt;静态资源 &lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="笔记" scheme="https://blog.xlenco.top/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="CDN" scheme="https://blog.xlenco.top/tags/CDN/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo｜博客搭建指南</title>
+    <link href="https://blog.xlenco.top/p/5b4d.html"/>
+    <id>https://blog.xlenco.top/p/5b4d.html</id>
+    <published>2022-08-28T08:12:00.000Z</published>
+    <updated>2022-08-28T12:12:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;1-引言&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1-引言&quot;&gt;&lt;/a&gt; 1. 引言&lt;/h2&gt;
+&lt;p&gt;不知不觉，我的博客已经在风雨飘摇中运行了一段时间了，我觉得有必要详细记录一下博客搭建的过程，以防我不小心搞崩了博客…&lt;br</summary>
+        
+      
+    
+    
+    
+    <category term="教程" scheme="https://blog.xlenco.top/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="Hexo" scheme="https://blog.xlenco.top/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>利用Github Actions自动化部署你Hexo博客</title>
+    <link href="https://blog.xlenco.top/p/77000.html"/>
+    <id>https://blog.xlenco.top/p/77000.html</id>
+    <published>2022-08-25T14:01:13.000Z</published>
+    <updated>2022-12-09T06:15:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;github-actions概念&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#github-actions概念&quot;&gt;&lt;/a&gt; Github Actions概念&lt;/h3&gt;
+&lt;p&gt;GitHub Actions 是一个持续集成和持续交付</summary>
+        
+      
+    
+    
+    
+    <category term="教程" scheme="https://blog.xlenco.top/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="Hexo" scheme="https://blog.xlenco.top/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>随机访问博客文章</title>
+    <link href="https://blog.xlenco.top/p/2377.html"/>
+    <id>https://blog.xlenco.top/p/2377.html</id>
+    <published>2022-08-21T10:13:03.000Z</published>
+    <updated>2024-02-15T06:52:17.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#前言&quot;&gt;&lt;/a&gt; 前言&lt;/h2&gt;
+&lt;p&gt;此教程是根据 js 实现的随机访问博客文章&lt;/p&gt;
+&lt;p&gt;部署难度：简单&lt;/p&gt;
+&lt;h2 id=&quot;正文&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="教程" scheme="https://blog.xlenco.top/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="Hexo" scheme="https://blog.xlenco.top/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在GitHub个人页添加一个有趣的贪吃蛇动画</title>
+    <link href="https://blog.xlenco.top/p/ce95.html"/>
+    <id>https://blog.xlenco.top/p/ce95.html</id>
+    <published>2022-07-28T04:07:51.000Z</published>
+    <updated>2022-07-29T06:59:10.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;这是我之前在逛 GitHub 发现的有意思的东西，给自己的个人 GitHub 主页添加一个贪吃蛇动画，效果如下：&lt;br /&gt;
+&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="教程" scheme="https://blog.xlenco.top/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="Github" scheme="https://blog.xlenco.top/tags/Github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Git常用命令</title>
+    <link href="https://blog.xlenco.top/p/1b99.html"/>
+    <id>https://blog.xlenco.top/p/1b99.html</id>
+    <published>2022-07-11T16:00:00.000Z</published>
+    <updated>2022-08-18T14:07:42.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;仓库&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#仓库&quot;&gt;&lt;/a&gt; 仓库&lt;/h2&gt;
+&lt;figure class=&quot;highlight shell&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span</summary>
+        
+      
+    
+    
+    
+    <category term="笔记" scheme="https://blog.xlenco.top/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Git" scheme="https://blog.xlenco.top/tags/Git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>微软 E5 订阅 关闭手机验证步骤</title>
+    <link href="https://blog.xlenco.top/p/923a.html"/>
+    <id>https://blog.xlenco.top/p/923a.html</id>
+    <published>2022-06-30T11:46:35.000Z</published>
+    <updated>2024-02-16T01:42:46.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#前言&quot;&gt;&lt;/a&gt; 前言&lt;/h2&gt;
+&lt;p&gt;相信各位 E5 账号嫖的很爽吧！！不得不说巨硬是真的良心&lt;br /&gt;
+但是部署自动部署后，跳出来的双重验证就让人很烦&lt;br</summary>
+        
+      
+    
+    
+    
+    <category term="教程" scheme="https://blog.xlenco.top/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Microsoft Azure应用永久密钥获取教程</title>
+    <link href="https://blog.xlenco.top/p/f366.html"/>
+    <id>https://blog.xlenco.top/p/f366.html</id>
+    <published>2022-06-19T10:47:47.000Z</published>
+    <updated>2024-02-15T06:42:43.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;开始&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#开始&quot;&gt;&lt;/a&gt; 开始&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;首先打开网址：&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="教程" scheme="https://blog.xlenco.top/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+  </entry>
+  
+</feed>
